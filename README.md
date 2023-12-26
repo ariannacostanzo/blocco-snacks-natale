@@ -2,7 +2,7 @@ SNACK 1
 L'utente inserisce due numeri in successione, con due prompt. Il softare stampa il maggiore.
 
 SNACK 2
-L'utente inserisce due numeri in successione, con due prompt. Il software stampa prima la parola più corta, poi la parola più lunga.
+L'utente inserisce due parole in successione, con due prompt. Il software stampa prima la parola più corta, poi la parola più lunga.
 
 SNACK 3
 Il software deve chiedere per 10 volte all'utente di inserire un numero. Il programma stampa la somma di tutti i numeri inseriti.
