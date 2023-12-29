@@ -1,3 +1,7 @@
+// SNACK 1
+// L'utente inserisce due numeri in successione, con due prompt. Il softare stampa il maggiore.
+
+
 console.log('js ok');
 
 const firstNumber = parseInt(prompt('Inserisci un numero'));
