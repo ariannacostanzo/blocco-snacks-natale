@@ -1,5 +1,5 @@
-// SNACK 1
-// L'utente inserisce due numeri in successione, con due prompt. Il softare stampa il maggiore.
+/* SNACK 1
+L'utente inserisce due numeri in successione, con due prompt. Il softare stampa il maggiore.*/
 
 
 console.log('js ok');
